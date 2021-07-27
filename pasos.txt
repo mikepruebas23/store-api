@@ -1,0 +1,20 @@
+1. instalar express: npm i --save express.
+2. crear index.js.
+2. instalar nodemon: npm i --save nodemon.
+4. configurar lo de mongodb comunity
+5.-npm i -- save 
+    -mongoose (el cliente de mongo db) 
+    -body-parser(permite acceder al cuerpo de una peticion y tratarlo como objeto) 
+    -cors(libreria de control de acceso de clientes a la api rest)
+6. npm i --save multer(procesar o almacenar archivo) shortid(generar ids aleatorios)
+7.- importar https://github.com/afelipelc/custom-snippets/blob/master/multerConfig.js
+8.- conectarlo a mongo db atlas
+9.- guardar el proyecto en git
+8.- cambiar la configuracion para darle npm run dev
+
+# EJECUTAR APLICACION!
+npm start
+
+# Routes
+http://localhost:5000/customers
+http://localhost:5000/products
